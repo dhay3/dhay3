@@ -1,11 +1,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhay3&theme=transparent)
 
 
 
 
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dhay3&CN)
 
-<frame>https://pokerogue.net/</frame>
+<iframe>https://pokerogue.net/</iframe>
+
+
 
 ---
 
