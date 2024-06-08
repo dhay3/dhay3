@@ -1,4 +1,11 @@
 name: Recent activity charts
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.habits.charts.svg
