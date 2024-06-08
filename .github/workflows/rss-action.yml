@@ -1,0 +1,25 @@
+name: rss-action
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    - cron: "0 */24 * * *"
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: News from hackernews
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
+
