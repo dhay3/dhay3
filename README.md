@@ -3,7 +3,7 @@
 
   
 
-  
+  ![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
 
   <frame>https://pokerogue.net/</frame>
 
