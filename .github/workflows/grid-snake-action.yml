@@ -8,9 +8,7 @@ on:
     - main
     - master
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
