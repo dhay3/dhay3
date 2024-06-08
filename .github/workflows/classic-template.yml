@@ -12,8 +12,8 @@ jobs:
     steps:
       - name: classic-template
         uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.classic.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-            base: header, repositories
-            plugin_lines: yes
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
