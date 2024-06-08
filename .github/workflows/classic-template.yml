@@ -9,6 +9,10 @@ on:
 jobs:
   build:
     permissions:
+      issues: read
+      pull-requests: read
+      repository-projects: read
+      statuses: read
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
