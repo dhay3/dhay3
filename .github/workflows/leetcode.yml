@@ -1,0 +1,11 @@
+name: LeetCode
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.leetcode.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_leetcode: yes
+  plugin_leetcode_sections: solved, skills, recent
