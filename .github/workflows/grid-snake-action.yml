@@ -1,4 +1,4 @@
-name: generate animation
+name: grid-snake-action
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -6,6 +6,7 @@ on:
   push:
     branches:
     - main
+    - master
 jobs:
   generate:
     permissions:
