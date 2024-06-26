@@ -10,6 +10,7 @@
 <summary>Bio</summary>
 Welcome to the real world, it sucks and you will love it.
 </detais>
+<br>
 <details>
 <summary>Contact me</summary>
 <ul>
