@@ -6,14 +6,14 @@
 <img src="https://leetcard.jacoblin.cool/dhay3?site=cn"/><br>
 </td>
 <td style="float:'left';text-align:'left'">
-<details>
-<summary open>Bio</summary>
-<p>👋 Hi there</p>
+<details open>
+<summary>👋 Bio</summary>
+<p></p>
 <p><blockquote>Welcome to the real world, it sucks and you will love it.</blockquote></p>
 </detais>
 <br>
-<details>
-<summary open>Contact me</summary>
+<details open>
+<summary>✉️ Contact me</summary>
 <ul>
 <li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
 <li>Telegram - <a href="https://t.me/cyberpelican">cyberpelican</a></li>
