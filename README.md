@@ -9,7 +9,7 @@
 <details>
 <summary open>Bio</summary>
 <p>👋 Hi there</p>
-<p><pre>Welcome to the real world, it sucks and you will love it.</pre></p>
+<p><blockquote>Welcome to the real world, it sucks and you will love it.</blockquote></p>
 </detais>
 <br>
 <details>
