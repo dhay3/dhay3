@@ -7,8 +7,8 @@
 </td>
 <td>
 <ul>
-Contact me
-<li>Gmail - hostlockdown@gmail.com</li>
+<p>Contact me</p>
+<li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
 <li>Telegram - <a href="https://t.me/cyberpelican">cyberpelican</a></li>
 <li>Gvoice - +1-339-236-3169</li>
 </ul>
