@@ -7,10 +7,12 @@
 </td>
 <td style="float:'left';text-align:'left'">
 <ul>
-<p>Contact me</p>
+<details>
+<summary>Contact me</summary>
 <li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
 <li>Telegram - <a href="https://t.me/cyberpelican">cyberpelican</a></li>
 <li>Gvoice - +1-339-236-3169</li>
+<details>
 </ul>
 </td>
 </tr>
@@ -18,21 +20,41 @@
 
 ---
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
 ```
 
-</details>
 
 
 ![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
