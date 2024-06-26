@@ -1,60 +1,23 @@
 <table>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077"/><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077"/ style="width:500px"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
 <img src="https://leetcard.jacoblin.cool/dhay3?site=cn"/><br>
 </td>
 <td style="float:'left';text-align:'left'">
-<ul>
 <details>
 <summary>Contact me</summary>
+<ul>
 <li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
 <li>Telegram - <a href="https://t.me/cyberpelican">cyberpelican</a></li>
 <li>Gvoice - +1-339-236-3169</li>
-<details>
 </ul>
+</details>
 </td>
 </tr>
 </table>
 
 ---
-
-```topojson
-{
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
-        },
-        {
-          "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
-          "arcs": [0]
-        },
-        {
-          "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
-          },
-          "arcs": [[1]]
-        }
-      ]
-    }
-  },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
-```
-
-
 
 ![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
