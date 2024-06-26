@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
 <img src="https://leetcard.jacoblin.cool/dhay3?site=cn"/><br>
 </td>
-<td>
+<td style="float:'left';text-align:'left'">
 <ul>
 <p>Contact me</p>
 <li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
@@ -15,8 +15,6 @@
 </td>
 </tr>
 </table>
-
-Gmail Gun/GPG [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946)
 
 ---
 
