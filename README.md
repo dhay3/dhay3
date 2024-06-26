@@ -8,7 +8,9 @@
 <td style="float:'left';text-align:'left'">
 <details>
 <summary>Bio</summary>
-Welcome to the real world, it sucks and you will love it.
+<p>👋 Hi there</p>
+<p>Welcome to the real world, it sucks and you will love it.
+</p>
 </detais>
 <br>
 <details>
