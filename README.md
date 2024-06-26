@@ -8,9 +8,9 @@
 <td style="float:'left';text-align:'left'">
 <details open>
 <summary>👋 Bio</summary>
-<p></p>
+<p>Believer in Gnu.</p>
 <p><blockquote>Welcome to the real world, it sucks and you will love it.</blockquote></p>
-</detais>
+</details>
 <br>
 <details open>
 <summary>✉️ Contact me</summary>
