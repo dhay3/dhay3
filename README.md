@@ -46,6 +46,10 @@ Gvoice - +1-339-236-3169
 </li>
 </ul>
 </details>
+<details open>
+<summary>📚 Read with me</summary>
+<img src="https://raw.githubusercontent.com/dhay3/dhay3/main/metrics.plugin.rss.svg"/>
+</details>
 </td>
 </tr>
 </table>
