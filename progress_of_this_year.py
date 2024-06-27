@@ -21,6 +21,7 @@ def gen_progress_bar() -> str:
 
 
 def gen_readme() -> None:
+    readme = 'README.md'
     start_comment = '<!--START_SECTION:progress-->'
     end_comment = '<!--END_SECTION:progress-->'
     placeholder = fr'{start_comment}[\s\S]+{end_comment}'
@@ -30,13 +31,10 @@ def gen_readme() -> None:
 {progress_bar} {100 * progress_of_this_year:.2f}%
 {end_comment}
 """
-    with open('README.md', 'r') as r:
-        readme_content = r.read()
-    with open('README.txt', 'w') as w:
-        w.write(re.sub(placeholder, progress_content, readme_content))
+    with open(readme, 'r') as r: readme_content = r.read()
+    with open(readme, 'w') as w: w.write(re.sub(placeholder, progress_content, readme_content))
 
 
 if __name__ == '__main__':
     gen_readme()
-    with open('README.md', 'r') as f:
-        print(f.read())
+    with open('README.md', 'r') as f: print(f.read())
