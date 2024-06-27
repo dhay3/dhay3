@@ -30,7 +30,8 @@
 <ul>
 <li>
 Gmail - hostlockdown@gmail.com<br>Please Sign the email with 
-<a href="https://gnupg.org/">GPG</a>
+<a href="https://keys.openpgp.org/">keys.openpgp.org</a>
+key server.
 <br>
 </li>
 <li>
@@ -46,9 +47,9 @@ Gvoice - +1-339-236-3169
 </tr>
 </table>
 
-> [!NOTE] Find My GPG Pub FingerPrint in [keys.openpgp.org](https://keys.openpgp.org)
+> [!NOTE] 
 > 
-> [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946)
+> My GPG Pub FingerPrint [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946)
 
 ---
 ![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
