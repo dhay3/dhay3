@@ -45,7 +45,7 @@ Gvoice - +1-339-236-3169
 </tr>
 </table>
 
-> [!note] Find My GPG Pub FingerPrint in [keys.openpgp.org](https://keys.openpgp.org)
+> [!NOTE] Find My GPG Pub FingerPrint in [keys.openpgp.org](https://keys.openpgp.org)
 > 
 > [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946)
 
