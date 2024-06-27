@@ -1,4 +1,4 @@
-name: profile-action
+name: grid-snake-svg
 on:
   schedule:
     - cron: "0 */24 * * *"

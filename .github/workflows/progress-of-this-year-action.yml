@@ -1,4 +1,4 @@
-name: profile-of-this-year-action
+name: progress-of-this-year-action
 on:
   schedule:
     - cron: "0 */24 * * *"
