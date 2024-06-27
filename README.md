@@ -34,8 +34,7 @@
 <ul>
 <li>
 Gmail - hostlockdown@gmail.com<br>Please Sign the email with 
-<a href="https://keys.openpgp.org/">keys.openpgp.org</a>
-key server.
+<a href="https://gnupg.org/">GPG</a>.
 <br>
 </li>
 <li>
