@@ -1,11 +1,11 @@
 name: rss-action
 on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-      - master
-  schedule:
-    - cron: "0 */24 * * *"
 jobs:
   build:
     permissions:
