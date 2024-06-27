@@ -35,6 +35,7 @@ def gen_readme() -> None:
     with open('README.txt', 'w') as w:
         w.write(re.sub(placeholder, progress_content, readme_content))
 
+
 if __name__ == '__main__':
     gen_readme()
     with open('README.md', 'r') as f:
