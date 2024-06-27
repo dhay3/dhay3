@@ -28,6 +28,7 @@ def gen_readme() -> None:
     progress_bar = gen_progress_bar()
     progress_content = f"""{start_comment}
 ⌛ Progress of {this_year}
+
 {progress_bar} {100 * progress_of_this_year:.2f}%
 {end_comment}
 """

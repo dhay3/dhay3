@@ -4,10 +4,9 @@
 
 <!--START_SECTION:progress-->
 ⌛ Progress of 2024
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 48.82%
 <!--END_SECTION:progress-->
-
-
 
 <table>
 <tr>
@@ -28,15 +27,27 @@
 <details open>
 <summary>✉️ Contact me</summary>
 <ul>
-<li>Gmail - hostlockdown@gmail.com<br>Please Sign the email with Gun/GPG <br><a href="https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946">0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946</a></li>
-<li>Telegram - <a href="https://t.me/cyberpelican">https://t.me/cyberpelican</a></li>
-<li>Gvoice - +1-339-236-3169</li>
+<li>
+Gmail - hostlockdown@gmail.com<br>Please Sign the email with 
+<a href="https://gnupg.org/">GPG</a>
+<br>
+</li>
+<li>
+Telegram - 
+<a href="https://t.me/cyberpelican">https://t.me/cyberpelican</a>
+</li>
+<li>
+Gvoice - +1-339-236-3169
+</li>
 </ul>
 </details>
 </td>
 </tr>
 </table>
 
+> [!note] Find My GPG Pub FingerPrint in [keys.openpgp.org](https://keys.openpgp.org)
+> 
+> [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946)
 
 ---
 ![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
