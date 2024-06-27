@@ -1,21 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1DF786&random=false&width=435&lines=Welcome+to+the+real+world.;It+sucks.;And+you+will+love+it.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1DF786&random=false&width=435&lines=Welcome+to+the+real+world.;It+sucks.;And+you+will+love+it.)
+
+---
+
+<!--START_SECTION:progress-->
+<!--END_SECTION:progress-->
 
 <table>
 <tr>
 <td>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
-<img src="https://leetcard.jacoblin.cool/dhay3?site=cn"/><br>
+<img src="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"/><br>
 </td>
 <td style="float:left;text-align:left">
 <details open>
 <summary>👋 Bio</summary>
 <ul>
 <li>Believer in Gnu.</li>
-<li>Life hacker</li>
+<li>Cultist of Tux.</li>
+<li>Life hacker.</li>
 </ul>
 </details>
-<br>
 <details open>
 <summary>✉️ Contact me</summary>
 <ul>
