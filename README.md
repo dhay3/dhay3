@@ -31,9 +31,7 @@
 <ul>
 <li>
 Gmail - 
-<span style="background-color: gray; color: gray;"
-onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
-onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
+<span style="background-color: gray; color: gray;">
 hostlockdown@gmail.com
 </span>
 <br>
@@ -43,17 +41,13 @@ Please Sign the email with
 </li>
 <li>
 Telegram - 
-<span style="background-color: gray; color: gray;"
-onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
-onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
+<span style="background-color: gray; color: gray;">
 <a style="all: unset" href="https://t.me/cyberpelican">https://t.me/cyberpelican</a>
 </span>
 </li>
 <li>
 Gvoice - 
-<span style="background-color: gray; color: gray;"
-onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
-onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
+<span style="background-color: gray; color: gray;">
 +1-339-236-3169
 </span>
 </li>
