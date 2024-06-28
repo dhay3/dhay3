@@ -29,7 +29,12 @@
 <summary>✉️ Contact me</summary>
 <ul>
 <li>
-Gmail - <a onmouseover="this.style.color='#0F0';this.style.textDecoration='none'">hostlockdown@gmail.com</a>
+Gmail - 
+<span style="background-color: gray; color: gray;"
+onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
+onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
+hostlockdown@gmail.com
+</span>
 <br>
 Please Sign the email with
 <a href="https://gnupg.org/">GPG</a>.
@@ -37,10 +42,19 @@ Please Sign the email with
 </li>
 <li>
 Telegram - 
-<a href="https://t.me/cyberpelican">https://t.me/cyberpelican</a>
+<span style="background-color: gray; color: gray;"
+onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
+onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
+<a style="all: unset" href="https://t.me/cyberpelican">https://t.me/cyberpelican</a>
+</span>
 </li>
 <li>
-Gvoice - +1-339-236-3169
+Gvoice - 
+<span style="background-color: gray; color: gray;"
+onmouseover="this.style.color='green'; this.style.backgroundColor='gray';"
+onmouseleave="this.style.color='gray'; this.style.backgroundColor='gray';">
++1-339-236-3169
+</span>
 </li>
 </ul>
 </details>
