@@ -8,12 +8,6 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 48.74%
 <!--END_SECTION:progress-->
 
-
-
-
-
-
-
 <table>
 <tr>
 <td>
@@ -34,7 +28,9 @@
 <summary>✉️ Contact me</summary>
 <ul>
 <li>
-Gmail - hostlockdown@gmail.com<br>Please Sign the email with 
+Gmail - <span onMouseOver="this.style.color='#0F0'">hostlockdown@gmail.com</span>
+<br>
+Please Sign the email with 
 <a href="https://gnupg.org/">GPG</a>.
 <br>
 </li>
