@@ -28,9 +28,9 @@
 <summary>✉️ Contact me</summary>
 <ul>
 <li>
-Gmail - <span onMouseOver="this.style.color='#0F0'">hostlockdown@gmail.com</span>
+Gmail - <a onmouseover="this.style.color='#0F0';this.style.textDecoration='none'">hostlockdown@gmail.com</a>
 <br>
-Please Sign the email with 
+Please Sign the email with
 <a href="https://gnupg.org/">GPG</a>.
 <br>
 </li>
