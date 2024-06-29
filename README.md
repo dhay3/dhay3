@@ -62,7 +62,7 @@ Telegram -
 </details>
 <details open>
 <summary>📚 Ycombinator</summary>
-<img alt="" src="https://raw.githubusercontent.com/dhay3/dhay3/main/metrics.plugin.rss.svg"/>
+<img alt="" src="metrics.plugin.rss.svg"/>
 </details>
 </td>
 </tr>
