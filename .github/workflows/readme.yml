@@ -29,7 +29,7 @@ jobs:
         with:
           python-version: 3.9
       - name: Progress bar
-        run: "python ./src/progress_of_this_year.py"
+        run: "python src/progress_of_this_year.py"
       - name: Commit Change and Push
         run: |
           git commit -am "🤖 create progress of this year automatically"
@@ -46,7 +46,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.1.7
       - name: fetch SVGs
-        run: "bash ./src/fetch_metrics.sh"
+        run: "bash src/fetch_metrics.sh"
       - name: Commit Change and Push
         run: |
           git commit -am "🤖 fetch svgs automatically"
