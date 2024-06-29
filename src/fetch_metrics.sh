@@ -26,5 +26,5 @@ wget -O assets/readme_card_dark.svg ${README_STATS_DARK_URL} \
 
 wget -O assets/leet_card_dark.svg ${LEET_CARD_DARK_URL} \
 && wget -O assets/leet_card.svg ${LEET_CARD_URL} \
-&& sed -i -e 's/--bg-2:#d3d3d3;//' \
+&& sed -i -e 's/stroke:var(--bg-2);//' \
 assets/leet_card_dark.svg assets/readme_card.svg
