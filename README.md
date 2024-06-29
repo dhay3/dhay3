@@ -9,9 +9,6 @@
 ---
 
 <!--START_SECTION:progress-->
-⌛ Progress of 2024
-
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 49.22%
 <!--END_SECTION:progress-->
 
 <table>
