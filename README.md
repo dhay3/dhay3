@@ -17,7 +17,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg" style="width:500px">
  <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg" style="width:500px">
- <img alt="Summary Card" src="assets/profile_summary_card_dark.svg">
+ <img alt="Summary Card" src="assets/profile_summary_card_dark.svg" style="width:500px">
 </picture>
 
 [//]: # (<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>)
