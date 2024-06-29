@@ -1,4 +1,5 @@
 import re
+import uuid
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -11,6 +12,7 @@ placeholder = fr'{start_comment}[\s\S]+{end_comment}'
 
 def gen_progress_content() -> str:
     progress_bar_capacity = 50
+    seed = uuid.uuid1()
     current_time_of_this_year = datetime.timestamp(datetime.now())
     this_year = datetime.now().year
     start_time_of_this_year = datetime.timestamp(
@@ -24,7 +26,7 @@ def gen_progress_content() -> str:
                     f'{int(progress_bar_capacity - 1 - progress_bar_capacity * progress_of_this_year) * "⣀"}')
     progress_content = f"""{start_comment}
 ⌛ Progress of {this_year}
-
+<!--{seed}-->
 {progress_bar} {100 * progress_of_this_year:.2f}%
 {end_comment}"""
     return progress_content
