@@ -11,18 +11,17 @@
 <table>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
-<img src="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"/><br>
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
+<img alt="" src="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"/><br>
 </td>
 <td>
 <details open>
 <summary>👋 Bio</summary>
 <ul>
-<li>Believer in Gnu.</li>
-<li>Cultist of Tux.</li>
-<li>Life hacker.</li>
-<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM&STFW</a> is my tenet.</li>
+<li>Gnu Believer.</li>
+<li>Tux Cultist(We suck Windows).</li>
+<li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM&STFW</a>.</li>
 </ul>
 </details>
 <details open>
@@ -57,7 +56,7 @@ Telegram -
 </details>
 <details open>
 <summary>📚 Ycombinator</summary>
-<img src="https://raw.githubusercontent.com/dhay3/dhay3/main/metrics.plugin.rss.svg"/>
+<img alt="" src="https://raw.githubusercontent.com/dhay3/dhay3/main/metrics.plugin.rss.svg"/>
 </details>
 </td>
 </tr>

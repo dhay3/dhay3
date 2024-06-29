@@ -20,7 +20,7 @@ def gen_progress_content() -> str:
     progress_of_this_year = ((current_time_of_this_year - start_time_of_this_year)
                              / (end_time_of_this_year - start_time_of_this_year))
     progress_bar = (f'{int(progress_bar_capacity * progress_of_this_year) * "⣿"}'
-                    f'{"" if int(progress_bar_capacity * progress_of_this_year) == 1 else "⣦"}'
+                    f'{"" if progress_of_this_year == 1 else "⣦"}'
                     f'{int(progress_bar_capacity - 1 - progress_bar_capacity * progress_of_this_year) * "⣀"}')
     progress_content = f"""{start_comment}
 ⌛ Progress of {this_year}

@@ -14,4 +14,4 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: TODO
-        run: "TODO"
+        run: "echo TODO"
