@@ -11,9 +11,15 @@
 <table>
 <tr>
 <td>
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>
-<img alt="" src="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"/><br>
+
+[//]: # (<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>)
+<img alt="" src="assets/profile_summary_card.svg" style="width:500px"><br>
+
+[//]: # (<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>)
+<img alt="" src="assets/readme_card.svg" style="width:500px"><br>
+
+[//]: # (<img alt="" src="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"/>)
+<img alt="" src="assets/leet_card.svg"/><br>
 </td>
 <td>
 <details open>
