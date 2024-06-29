@@ -15,7 +15,9 @@ declare -r LEET_CARD_DARK_URL="https://leetcard.jacoblin.cool/dhay3?site=cn&them
 declare -r LEET_CARD_URL="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=light"
 
 wget -O assets/profile_summary_card_dark.svg ${PROFILE_SUMMARY_CARDS_DARK_URL} \
-&& wget -O assets/profile_summary_card.svg ${PROFILE_SUMMARY_CARDS_URL}
+&& sed -i 's/width="700"/width="500"/p' assets/profile_summary_card_dark.svg \
+&& wget -O assets/profile_summary_card.svg ${PROFILE_SUMMARY_CARDS_URL} \
+&& sed -i 's/width="700"/width="500"/p' assets/profile_summary_card.svg
 
 wget -O assets/readme_card_dark.svg ${README_STATS_DARK_URL} \
 && wget -O assets/readme_card.svg ${README_STATS_URL}
