@@ -35,7 +35,7 @@
 <li>
 Gmail - 
 <span>
-■■■■■■
+■■■■■■■
 <!--hostlockdown@gmail.com-->
 </span>
 <br>
@@ -46,14 +46,14 @@ Please Sign the email with
 <li>
 Gvoice - 
 <span>
-■■■■■■
+■■■■■■■
 <!--+1-339-236-3169-->
 </span>
 </li>
 <li>
 Telegram - 
 <span>
-■■■■■■
+■■■■■■■
 <!--https://t.me/cyberpelican-->
 </span>
 </li>

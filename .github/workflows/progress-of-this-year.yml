@@ -1,4 +1,4 @@
-name: progress-of-this-year-action
+name: progress-of-this-year
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: 3.9
       - name: Progress bar
-        run: "python ./progress_of_this_year.py"
+        run: "python ./src/progress_of_this_year.py"
       - name: Commit Change and Push
         run: |
           git config user.name 'github-actions[bot]'

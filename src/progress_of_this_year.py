@@ -17,8 +17,8 @@ def gen_progress_content() -> str:
         datetime(datetime.now().year, 1, 1, 0, 0, 0, 0, this_tz))
     end_time_of_this_year = datetime.timestamp(
         datetime(datetime.now().year, 12, 31, 23, 59, 59, 0, this_tz))
-    progress_of_this_year = ((current_time_of_this_year - start_time_of_this_year) /
-                             (end_time_of_this_year - start_time_of_this_year))
+    progress_of_this_year = ((current_time_of_this_year - start_time_of_this_year)
+                             / (end_time_of_this_year - start_time_of_this_year))
     progress_bar = (f'{int(progress_bar_capacity * progress_of_this_year) * "⣿"}'
                     f'{"" if int(progress_bar_capacity * progress_of_this_year) == 1 else "⣦"}'
                     f'{int(progress_bar_capacity - 1 - progress_bar_capacity * progress_of_this_year) * "⣀"}')

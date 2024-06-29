@@ -1,0 +1,17 @@
+name: fetch-metrics
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: TODO
+        run: "TODO"
