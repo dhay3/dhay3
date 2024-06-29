@@ -1,7 +1,9 @@
 import re
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 readme = 'README.md'
+this_tz = ZoneInfo("Asia/Shanghai")
 start_comment = '<!--START_SECTION:progress-->'
 end_comment = '<!--END_SECTION:progress-->'
 placeholder = fr'{start_comment}[\s\S]+{end_comment}'
@@ -11,11 +13,10 @@ def gen_progress_content() -> str:
     progress_bar_capacity = 50
     current_time_of_this_year = datetime.timestamp(datetime.now())
     this_year = datetime.now().year
-    this_time_zone = datetime.now().astimezone().tzinfo
     start_time_of_this_year = datetime.timestamp(
-        datetime(datetime.now().year, 1, 1, 0, 0, 0, 0, this_time_zone))
+        datetime(datetime.now().year, 1, 1, 0, 0, 0, 0, this_tz))
     end_time_of_this_year = datetime.timestamp(
-        datetime(datetime.now().year, 12, 31, 23, 59, 59, 0, this_time_zone))
+        datetime(datetime.now().year, 12, 31, 23, 59, 59, 0, this_tz))
     progress_of_this_year = ((current_time_of_this_year - start_time_of_this_year) /
                              (end_time_of_this_year - start_time_of_this_year))
     progress_bar = (f'{int(progress_bar_capacity * progress_of_this_year) * "⣿"}'
