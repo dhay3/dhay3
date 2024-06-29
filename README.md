@@ -14,10 +14,10 @@
 
 [//]: # (<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077" style="width:500px"><br>)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg" style="width:500px">
- <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg" style="width:500px">
- <img alt="Summary Card" src="assets/profile_summary_card_dark.svg" style="width:500px">
+<picture style="width:500px">
+ <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg">
+ <img alt="Summary Card" src="assets/profile_summary_card_dark.svg">
 </picture>
 
 [//]: # (<img alt="" src="https://github-readme-stats.vercel.app/api?username=dhay3&show_icons=true&theme=radical&hide_title=true&card_width=500&hide_border=true"/><br>)
@@ -91,8 +91,4 @@ Telegram -
 
 ---
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg">
- <img alt="Commit Activities" src="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
