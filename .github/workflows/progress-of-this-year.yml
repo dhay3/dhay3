@@ -1,13 +1,13 @@
 name: progress-of-this-year
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 jobs:
-  build:
+  progress-of-this-year:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -25,6 +25,40 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "🤖 update README.md automatically"
+          git commit -am "🤖 create progress of this year automatically"
           git push
+  fetch_svg:
+    needs: progress-of-this-year
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.7
+      - name: fetch SVGs
+        run: "bash ./src/fetch_metrics.sh"
+      - name: Commit Change and Push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am "🤖 fetch svgs automatically"
+          git push
+  hacker-news-rss:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: News from hackernews
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 3
+
+
 
