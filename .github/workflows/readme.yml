@@ -7,14 +7,23 @@ on:
     - cron: "0 */24 * * *"
   workflow_dispatch:
 jobs:
-  progress-of-this-year:
-    permissions:
-      contents: write
+  checkout-and-set-github-bot:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.7
+      - name: Configure Github bot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+  progress-of-this-year:
+    needs: checkout-and-set-github-bot
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
       - name: Setup Python environment
         uses: actions/setup-python@v5.1.0
         with:
@@ -23,12 +32,12 @@ jobs:
         run: "python ./src/progress_of_this_year.py"
       - name: Commit Change and Push
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am "🤖 create progress of this year automatically"
           git push
   fetch_svg:
-    needs: progress-of-this-year
+    needs:
+      - checkout-and-set-github-bot
+      - progress-of-this-year
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -40,10 +49,7 @@ jobs:
         run: "bash ./src/fetch_metrics.sh"
       - name: Commit Change and Push
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "🤖 fetch svgs automatically"
+          git commit -am "🤖 fetch svgs automatically"
           git push
   hacker-news-rss:
     permissions:
