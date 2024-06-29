@@ -1,4 +1,4 @@
-name: readme
+name: progress-of-this-year
 on:
   push:
     branches:
