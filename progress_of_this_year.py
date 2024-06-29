@@ -1,7 +1,7 @@
 import re
-import logging
 from datetime import datetime
 
+readme = 'README.md'
 start_comment = '<!--START_SECTION:progress-->'
 end_comment = '<!--END_SECTION:progress-->'
 placeholder = fr'{start_comment}[\s\S]+{end_comment}'
@@ -19,7 +19,7 @@ def gen_progress_content() -> str:
     progress_of_this_year = ((current_time_of_this_year - start_time_of_this_year) /
                              (end_time_of_this_year - start_time_of_this_year))
     progress_bar = (f'{int(progress_bar_capacity * progress_of_this_year) * "⣿"}'
-                    '⣦'
+                    f'{"" if int(progress_bar_capacity * progress_of_this_year) == 1 else "⣦"}'
                     f'{int(progress_bar_capacity - 1 - progress_bar_capacity * progress_of_this_year) * "⣀"}')
     progress_content = f"""{start_comment}
 ⌛ Progress of {this_year}
@@ -30,12 +30,14 @@ def gen_progress_content() -> str:
 
 
 def gen_readme() -> None:
-    readme = 'README.md'
     progress_content = gen_progress_content()
-    with open(readme, 'r') as r: readme_content = r.read()
-    with open(readme, 'w') as w: w.write(re.sub(placeholder, progress_content, readme_content))
+    with open(readme, 'r') as r:
+        readme_content = r.read()
+    with open(readme, 'w') as w:
+        n_readme_content = re.sub(placeholder, progress_content, readme_content)
+        print(n_readme_content)
+        w.write(n_readme_content)
 
 
 if __name__ == '__main__':
     gen_readme()
-    with open('README.md', 'r') as f: print(f.read())
