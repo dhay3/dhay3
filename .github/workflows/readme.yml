@@ -73,8 +73,6 @@ jobs:
           git commit -m "🤖 fetch svgs automatically"
           git push -f
   grid-snake:
-    needs:
-      - hacker-news-rss
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -87,22 +85,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the main branch
+      - name: push github-contribution-grid-snake.svg to the ouput branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Checkout
         uses: actions/checkout@v4.1.7
-      - name: Recommit metrics svg
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          mv github-contribution-grid-snake-dark.svg assets/
-          mv github-contribution-grid-snake.svg assets/
-          git add assets/
-          git commit -m "🤖 fetch svgs automatically"
-          git push -f 
 
