@@ -71,7 +71,7 @@ jobs:
           mv metrics.plugin.rss.svg assets/
           git add assets/
           git commit -m "🤖 fetch svgs automatically"
-          git push
+          git push -f
   grid-snake:
     needs:
       - hacker-news-rss
@@ -87,7 +87,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
@@ -104,5 +104,5 @@ jobs:
           mv github-contribution-grid-snake.svg assets/
           git add assets/
           git commit -m "🤖 fetch svgs automatically"
-          git push
+          git push -f 
 
