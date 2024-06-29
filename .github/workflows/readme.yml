@@ -46,8 +46,6 @@ jobs:
           git commit -m "🤖 fetch svgs automatically"
           git push -f
   hacker-news-rss:
-    needs:
-      - fetch_svg
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -62,16 +60,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 3
-      - name: Checkout
-        uses: actions/checkout@v4.1.7
-      - name: Recommit metrics svg
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          mv metrics.plugin.rss.svg assets/
-          git add assets/
-          git commit -m "🤖 fetch svgs automatically"
-          git push -f
   grid-snake:
     permissions:
       contents: write
