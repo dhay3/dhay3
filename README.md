@@ -32,12 +32,12 @@
 <details open>
 <summary>👋 Bio</summary>
 <ul>
-----------------------------------------------------------------
 <li>Gnu Believer.</li>
 <li>Tux Cultist(We suck Windows).</li>
 <li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>.</li>
 </ul>
 </details>
+----------------------------------------------------------------
 <details open>
 <summary>✉️ Contact me</summary>
 <ul>
@@ -68,6 +68,7 @@ Telegram -
 </li>
 </ul>
 </details>
+----------------------------------------------------------------
 <details open>
 <summary>📚 Ycombinator</summary>
 <img alt="" src="metrics.plugin.rss.svg"/>
