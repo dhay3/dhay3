@@ -2,6 +2,8 @@
 
 set -xo
 
+declare -r TYPING_SVG_URL="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1DF786&random=false&width=435&lines=Welcome+to+the+real+world.;It+sucks.;And+you+will+love+it."
+
 # https://github.com/vn7n24fzkq/github-profile-summary-cards
 declare -r PROFILE_SUMMARY_CARDS_DARK_URL="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=2077"
 declare -r PROFILE_SUMMARY_CARDS_URL="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhay3&theme=github"
@@ -13,6 +15,8 @@ declare -r README_STATS_URL="https://github-readme-stats.vercel.app/api?username
 # https://github.com/JacobLinCool/LeetCode-Stats-Card
 declare -r LEET_CARD_DARK_URL="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=dark"
 declare -r LEET_CARD_URL="https://leetcard.jacoblin.cool/dhay3?site=cn&theme=light"
+
+wget -O assets/typing_svg.svg ${TYPING_SVG_URL}
 
 wget -O assets/profile_summary_card_dark.svg ${PROFILE_SUMMARY_CARDS_DARK_URL} \
 && wget -O assets/profile_summary_card.svg ${PROFILE_SUMMARY_CARDS_URL} \
