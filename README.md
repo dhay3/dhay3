@@ -37,7 +37,6 @@
 <li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>. Ps. ATFL(Ask The Fucking LLM)</li>
 </ul>
 </details>
-----------------------------------------------------------------
 <details open>
 <summary>✉️ Contact me</summary>
 <ul>
@@ -70,7 +69,6 @@ Telegram -
 </li>
 </ul>
 </details>
-----------------------------------------------------------------
 <details open>
 <summary>📚 Ycombinator</summary>
 <img alt="" src="metrics.plugin.rss.svg"/>
