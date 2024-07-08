@@ -32,8 +32,8 @@
 <details open>
 <summary>👋 Bio</summary>
 <ul>
-<li>Gnu Believer.</li>
-<li>Tux Cultist(We suck Windows).</li>
+<li>Gnu Believer. <a href="https://my.fsf.org/join">Support it now.</a></li>
+<li><a href="https://isc.tamu.edu/~lewing/linux/">Tux</a> Cultist(We suck Windows).</li>
 <li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>. Ps. ATFL(Ask The Fucking LLM)</li>
 </ul>
 </details>
@@ -58,6 +58,8 @@ Gvoice -
 ■■■■■■■
 <!--+1-339-236-3169-->
 </span>
+<br>
+Feel free to leave voice messages.
 </li>
 <li>
 Telegram - 
