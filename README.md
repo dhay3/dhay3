@@ -44,7 +44,7 @@
 Gmail - 
 <span>
 ■■■■■■■
-<!--hostlockdown@gmail.com-->
+<!--0x00.tor@gmail.com-->
 </span>
 <br>
 Please Sign the email with
