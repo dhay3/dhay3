@@ -2,6 +2,7 @@
 
 set -xo
 
+# https://github.com/DenverCoder1/readme-typing-svg
 declare -r TYPING_SVG_URL="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1DF786&random=false&width=435&lines=Welcome+to+the+real+world.;It+sucks.;And+you+will+love+it."
 
 # https://github.com/vn7n24fzkq/github-profile-summary-cards
