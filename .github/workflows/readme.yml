@@ -25,6 +25,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git pull
           git commit -am "🤖 create progress of this year automatically"
           git push
   fetch_svg:
@@ -42,8 +43,9 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git pull
           git commit -am "🤖 fetch svgs automatically"
-          git push -f
+          git push
   hacker-news-rss:
     permissions:
       contents: write
