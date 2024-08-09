@@ -24,7 +24,7 @@ wget -O assets/profile_summary_card_dark.svg ${PROFILE_SUMMARY_CARDS_DARK_URL} \
 && sed -i -e 's/width="700"/width="500"/' \
 -e 's/height="200"/height="133"/' \
 -e 's/viewBox="0 0 700 200"/viewBox="0 0 750 200"/' \
--e 's/dhay3 (CyperPelican)//' \
+-e 's/dhay3//' \
 -e 's/stroke="#e4e2e2"//' \
 -e 's/stroke="#141321"//' \
 assets/profile_summary_card_dark.svg assets/profile_summary_card.svg
