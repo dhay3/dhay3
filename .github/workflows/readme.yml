@@ -46,21 +46,21 @@ jobs:
           git pull
           git commit -am "🤖 fetch svgs automatically"
           git push
-  hacker-news-rss:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: News from hackernews
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 3
+#  hacker-news-rss:
+#    permissions:
+#      contents: write
+#    runs-on: ubuntu-latest
+#    timeout-minutes: 10
+#    steps:
+#      - name: News from hackernews
+#        uses: lowlighter/metrics@latest
+#        with:
+#          filename: metrics.plugin.rss.svg
+#          token: NOT_NEEDED
+#          base: ""
+#          plugin_rss: yes
+#          plugin_rss_source: https://news.ycombinator.com/rss
+#          plugin_rss_limit: 3
   grid-snake:
     permissions:
       contents: write

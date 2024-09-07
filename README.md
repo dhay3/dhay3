@@ -11,23 +11,22 @@
 <table>
 <tr>
 <td>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg">
- <img alt="Summary Card" src="assets/profile_summary_card_dark.svg">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/readme_card_dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="assets/readme_card.svg">
- <img alt="Readme Card" src="assets/readme_card_dark.svg">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/leet_card_dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="assets/leet_card.svg">
- <img alt="LeetCode Card" src="assets/leet_card_dark.svg">
-</picture>
-
-</td>
+<!--<picture>-->
+<!-- <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg">-->
+<!-- <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg">-->
+<!-- <img alt="Summary Card" src="assets/profile_summary_card_dark.svg">-->
+<!--</picture>-->
+<!--<picture>-->
+<!-- <source media="(prefers-color-scheme: dark)" srcset="assets/readme_card_dark.svg">-->
+<!-- <source media="(prefers-color-scheme: light)" srcset="assets/readme_card.svg">-->
+<!-- <img alt="Readme Card" src="assets/readme_card_dark.svg">-->
+<!--</picture>-->
+<!--<picture>-->
+<!-- <source media="(prefers-color-scheme: dark)" srcset="assets/leet_card_dark.svg">-->
+<!-- <source media="(prefers-color-scheme: light)" srcset="assets/leet_card.svg">-->
+<!-- <img alt="LeetCode Card" src="assets/leet_card_dark.svg">-->
+<!--</picture>-->
+[![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q)</td>
 <td>
 <details open>
 <summary>👋 Bio</summary>
@@ -45,6 +44,7 @@ Gmail -
 <span>
 ■■■■■■■
 <!--0x00.tor@gmail.com-->
+<!--hostlockdown@gmail.com-->
 </span>
 <br>
 Please Sign the email with
@@ -69,10 +69,10 @@ Telegram -
 </li>
 </ul>
 </details>
-<details open>
-<summary>📚 Ycombinator</summary>
-<img alt="" src="metrics.plugin.rss.svg"/>
-</details>
+<!--<details open>-->
+<!--<summary>📚 Ycombinator</summary>-->
+<!--<img alt="" src="metrics.plugin.rss.svg"/>-->
+<!--</details>-->
 </td>
 </tr>
 </table>
