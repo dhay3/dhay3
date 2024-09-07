@@ -26,7 +26,8 @@
 <!-- <source media="(prefers-color-scheme: light)" srcset="assets/leet_card.svg">-->
 <!-- <img alt="LeetCode Card" src="assets/leet_card_dark.svg">-->
 <!--</picture>-->
-[![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q)</td>
+<a href="https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q" target="_blank">![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)</a>
+</td>
 <td>
 <details open>
 <summary>👋 Bio</summary>
