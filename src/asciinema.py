@@ -1,6 +1,5 @@
 import time
 import sys
-import subprocess
 
 STEP = 0.1
 BIO = """👋 Bio
