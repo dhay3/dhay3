@@ -92,15 +92,15 @@
 <summary>✉️ Contact me</summary>
 
 - Gmail - ■■■■■■■
-<!--0x00.tor@gmail.com-->
-<!--hostlockdown@gmail.com-->
-     Please Sign the email with [GPG](https://gnupg.org/).
+  <!--0x00.tor@gmail.com-->
+  <!--hostlockdown@gmail.com-->
+  Please Sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt).
 - Gvoice - ■■■■■■■
-<!--+1-339-236-3169-->
-    Feel free to leave voice messages.
+  <!--+1-339-236-3169-->
+  Feel free to leave voice messages.
 - Telegram - ■■■■■■■
-<!--https://t.me/@@-->
-
+  <!--https://t.me/@@-->
+  <!--disable now-->
 </details>
 
 > [!NOTE]
