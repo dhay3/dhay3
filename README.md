@@ -94,12 +94,12 @@
 - Gmail - ■■■■■■■
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
-Please Sign the email with [GPG](https://gnupg.org/).
+     Please Sign the email with [GPG](https://gnupg.org/).
 - Gvoice - ■■■■■■■
 <!--+1-339-236-3169-->
-Feel free to leave voice messages.
+    Feel free to leave voice messages.
 - Telegram - ■■■■■■■
-<!--https://t.me/@-->
+<!--https://t.me/@@-->
 
 </details>
 
