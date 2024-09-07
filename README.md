@@ -1,16 +1,19 @@
-![Typing SVG](assets/typing_svg.svg)
-
----
-
 <!--START_SECTION:progress-->
 ⌛ Progress of 2024
 <!--39ee380c-6cf4-11ef-90a7-4310c4fda0c7-->
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 68.50%
 <!--END_SECTION:progress-->
 
-<table>
-<tr>
-<td>
+![Typing SVG](assets/typing_svg.svg)
+
+<a href="https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q" target="_blank">![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)</a>
+
+
+---
+
+<!--<table>-->
+<!--<tr>-->
+<!--<td>-->
 <!--<picture>-->
 <!-- <source media="(prefers-color-scheme: dark)" srcset="assets/profile_summary_card_dark.svg">-->
 <!-- <source media="(prefers-color-scheme: light)" srcset="assets/profile_summary_card.svg">-->
@@ -26,57 +29,56 @@
 <!-- <source media="(prefers-color-scheme: light)" srcset="assets/leet_card.svg">-->
 <!-- <img alt="LeetCode Card" src="assets/leet_card_dark.svg">-->
 <!--</picture>-->
-<a href="https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q" target="_blank">![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)</a>
-</td>
-<td>
-<details open>
-<summary>👋 Bio</summary>
-<ul>
-<li>Gnu Believer. <a href="https://my.fsf.org/join">Support it now.</a></li>
-<li><a href="https://isc.tamu.edu/~lewing/linux/">Tux</a> Cultist(We suck Windows).</li>
-<li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>. Ps. ATFL(Ask The Fucking LLM)</li>
-</ul>
-</details>
-<details open>
-<summary>✉️ Contact me</summary>
-<ul>
-<li>
-Gmail - 
-<span>
-■■■■■■■
+<!--</td>-->
+<!--<td>-->
+<!--<details open>-->
+<!--<summary>👋 Bio</summary>-->
+<!--<ul>-->
+<!--<li>Gnu Believer. <a href="https://my.fsf.org/join">Support it now.</a></li>-->
+<!--<li><a href="https://isc.tamu.edu/~lewing/linux/">Tux</a> Cultist(We suck Windows).</li>-->
+<!--<li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>. Ps. ATFL(Ask The Fucking LLM)</li>-->
+<!--</ul>-->
+<!--</details>-->
+<!--<details open>-->
+<!--<summary>✉️ Contact me</summary>-->
+<!--<ul>-->
+<!--<li>-->
+<!--Gmail - -->
+<!--<span>-->
+<!--■■■■■■■-->
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
-</span>
-<br>
-Please Sign the email with
-<a href="https://gnupg.org/">GPG</a>.
-<br>
-</li>
-<li>
-Gvoice - 
-<span>
-■■■■■■■
+<!--</span>-->
+<!--<br>-->
+<!--Please Sign the email with-->
+<!--<a href="https://gnupg.org/">GPG</a>.-->
+<!--<br>-->
+<!--</li>-->
+<!--<li>-->
+<!--Gvoice - -->
+<!--<span>-->
+<!--■■■■■■■-->
 <!--+1-339-236-3169-->
-</span>
-<br>
-Feel free to leave voice messages.
-</li>
-<li>
-Telegram - 
-<span>
-■■■■■■■
+<!--</span>-->
+<!--<br>-->
+<!--Feel free to leave voice messages.-->
+<!--</li>-->
+<!--<li>-->
+<!--Telegram - -->
+<!--<span>-->
+<!--■■■■■■■-->
 <!--https://t.me/cyberpelican-->
-</span>
-</li>
-</ul>
-</details>
+<!--</span>-->
+<!--</li>-->
+<!--</ul>-->
+<!--</details>-->
 <!--<details open>-->
 <!--<summary>📚 Ycombinator</summary>-->
 <!--<img alt="" src="metrics.plugin.rss.svg"/>-->
 <!--</details>-->
-</td>
-</tr>
-</table>
+<!--</td>-->
+<!--</tr>-->
+<!--</table>-->
 
 > [!NOTE]
 >
