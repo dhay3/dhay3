@@ -95,7 +95,7 @@
 <li>Gmail - ■■■■■■■</li>
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
-Please sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt) as possible for the self-security and self-privacy concerned.
+Please sign the email with <a href="https://www.ietf.org/rfc/rfc4880.txt">GPG</a> as possible for the self-security and self-privacy concerned.
 <li>Gvoice - ■■■■■■■</li>
 <!--+1-339-236-3169-->
 Feel free to leave voice messages.
