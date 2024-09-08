@@ -1,5 +1,7 @@
+#!/usr/bin/env python
 import time
 import sys
+from typing import List
 
 STEP = 0.1
 BIO = """👋 Bio
@@ -17,13 +19,20 @@ CONTACT = """✉️ Contact me
 """
 
 
-def __type(content: str) -> None:
-    for char in content:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(STEP)
+def __type(content: List[str]) -> None:
+    def t(s: str) -> None:
+        for char in s:
+            sys.stdout.write(char)
+            sys.stdout.flush()
+            time.sleep(STEP)
+
+    f = lambda x: t(x)
+
+    for segment in content: f(segment)
 
 
 if __name__ == '__main__':
-    __type(BIO)
-    __type(CONTACT)
+    try:
+        __type([BIO, CONTACT])
+    except KeyboardInterrupt:
+        pass
