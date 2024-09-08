@@ -80,7 +80,7 @@
 <!--</table>-->
 
 <details open>
-<summary>👋 Bio</summary>
+<summary>👋 <b>Bio</b></summary>
 
 - Gnu Believer. [Support it now](https://my.fsf.org/join).
 - [Tux](https://isc.tamu.edu/~lewing/linux/) Sheep(We suck Windows).
@@ -89,21 +89,21 @@
 </details>
 
 <details open>
-<summary>✉️ Contact me</summary>
+<summary>✉️ <b>Contact me</b></summary>
 
-- Gmail - ■■■■■■■
+<ul>
+<li>Gmail - ■■■■■■■</li>
+<!--0x00.tor@gmail.com-->
+<!--hostlockdown@gmail.com-->
+Please sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt) as possible for the self-security and self-privacy concerned.
+<li>Gvoice - ■■■■■■■</li>
+<!--+1-339-236-3169-->
+Feel free to leave voice messages.
+<li>Telegram - ■■■■■■■</li>
+<!--https://t.me/@@-->
+<!--disable now-->
+</ul>
 
-  <!--0x00.tor@gmail.com-->
-  <!--hostlockdown@gmail.com-->
-  Please sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt) as possible for the self-security and self-privacy concerned.
-- Gvoice - ■■■■■■■
-
-  <!--+1-339-236-3169-->
-  Feel free to leave voice messages.
-- Telegram - ■■■■■■■
-
-  <!--https://t.me/@@-->
-  <!--disable now-->
 </details>
 
 > [!NOTE]
