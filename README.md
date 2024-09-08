@@ -8,7 +8,7 @@
 
 ![Typing SVG](assets/typing_svg.svg)
 
-<a href="https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q" target="_blank">![asciicast](https://asciinema.org/a/WxYCT3F1nD0RHqC37Ob9tFu5q.png)</a>
+<a href="https://asciinema.org/a/6nwWyKasFAcD68dBtc00mtAUS" target="_blank">![asciicast](https://asciinema.org/a/6nwWyKasFAcD68dBtc00mtAUS.png)</a>
 
 <!--<table>-->
 <!--<tr>-->
