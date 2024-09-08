@@ -34,7 +34,7 @@
 <!--<summary>👋 Bio</summary>-->
 <!--<ul>-->
 <!--<li>Gnu Believer. <a href="https://my.fsf.org/join">Support it now.</a></li>-->
-<!--<li><a href="https://isc.tamu.edu/~lewing/linux/">Tux</a> Cultist(We suck Windows).</li>-->
+<!--<li><a href="https://isc.tamu.edu/~lewing/linux/">Tux</a> Sheep(We suck Windows).</li>-->
 <!--<li>Disciple of <a href="http://www.catb.org/~esr/faqs/smart-questions.html#rtfm">RTFM & STFW</a>. Ps. ATFL(Ask The Fucking LLM)</li>-->
 <!--</ul>-->
 <!--</details>-->
@@ -49,8 +49,8 @@
 <!--hostlockdown@gmail.com-->
 <!--</span>-->
 <!--<br>-->
-<!--Please Sign the email with-->
-<!--<a href="https://gnupg.org/">GPG</a>.-->
+<!--Please sign the email with-->
+<!--<a href="https://gnupg.org/">GPG</a> as possible.-->
 <!--<br>-->
 <!--</li>-->
 <!--<li>-->
@@ -83,8 +83,8 @@
 <summary>👋 Bio</summary>
 
 - Gnu Believer. [Support it now](https://my.fsf.org/join).
-- [Tux](https://isc.tamu.edu/~lewing/linux/) Cultist(We suck Windows).
-- Disciple of [RTFM & STFW](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm). Ps. ATFL(Ask The Fucking LLM)
+- [Tux](https://isc.tamu.edu/~lewing/linux/) Sheep(We suck Windows).
+- Disciple of [RTFM & STFW](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm). Ps. ATFL(Ask The <!--Fucking--> LLM)
 
 </details>
 
@@ -92,16 +92,13 @@
 <summary>✉️ Contact me</summary>
 
 - Gmail - ■■■■■■■
-
   <!--0x00.tor@gmail.com-->
   <!--hostlockdown@gmail.com-->
-  Please Sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt).
+  Please sign the email with [GPG](https://www.ietf.org/rfc/rfc4880.txt) as possible for the self-security and self-privacy concerned.
 - Gvoice - ■■■■■■■
-
   <!--+1-339-236-3169-->
   Feel free to leave voice messages.
 - Telegram - ■■■■■■■
-
   <!--https://t.me/@@-->
   <!--disable now-->
 </details>
