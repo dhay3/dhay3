@@ -92,11 +92,12 @@
 <summary>✉️ <b>Contact me</b></summary>
 
 <ul>
-<li>Gmail - ■■■■■■■</li>
+<li>Email - ■■■■■■■</li>
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
+<!--kikochz@163.com-->
 Please sign the email with <a href="https://www.ietf.org/rfc/rfc4880.txt">GPG</a> as possible for the self-security and self-privacy concerned.
-<li>Gvoice - ■■■■■■■</li>
+<li>ESmi - ■■■■■■■</li>
 <!--+1-339-236-3169-->
 Feel free to leave voice messages.
 <li>Telegram - ■■■■■■■</li>
@@ -113,4 +114,10 @@ Feel free to leave voice messages.
 
 ---
 
-![](https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg">
+<img alt="Summary Card" src="https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg">
+</picture>
+
+[//]: # (![]&#40;https://raw.githubusercontent.com/dhay3/dhay3/output/github-contribution-grid-snake.svg&#41;)
