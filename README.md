@@ -111,7 +111,7 @@ Feel free to leave voice messages.
 >
 > My GPG keyring fingerprint
 > [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946) 
-> or you can get it by [steganography](https://github.com).
+> or you can get it by [steganography](steganography.jpg).
 > 
 > Don't forget to check the [sha1sum](0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946.sha1).
 
