@@ -1,7 +1,7 @@
 <!--START_SECTION:progress-->
 ⌛ Progress of 2024
-<!--20387fe0-6eb5-11ef-934b-3b518903d3cf-->
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 69.10%
+<!--6d419bea-6eb6-11ef-b5e1-a83b761e25b1-->
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 69.11%
 <!--END_SECTION:progress-->
 
 ---
@@ -42,19 +42,19 @@
 <!--<summary>✉️ Contact me</summary>-->
 <!--<ul>-->
 <!--<li>-->
-<!--Gmail - -->
+<!--Email - -->
 <!--<span>-->
 <!--■■■■■■■-->
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
-<!--</span>-->
+<!--kikochz@163.com--><!--</span>-->
 <!--<br>-->
 <!--Please sign the email with-->
 <!--<a href="https://gnupg.org/">GPG</a> as possible.-->
 <!--<br>-->
 <!--</li>-->
 <!--<li>-->
-<!--Gvoice - -->
+<!--ESmi - -->
 <!--<span>-->
 <!--■■■■■■■-->
 <!--+1-339-236-3169-->
@@ -63,10 +63,10 @@
 <!--Feel free to leave voice messages.-->
 <!--</li>-->
 <!--<li>-->
-<!--Telegram - -->
+<!--Matrix - -->
 <!--<span>-->
 <!--■■■■■■■-->
-<!--https://t.me/cyberpelican-->
+<!--@0x00.tor:matrix.org-->
 <!--</span>-->
 <!--</li>-->
 <!--</ul>-->
@@ -96,12 +96,12 @@
 <!--0x00.tor@gmail.com-->
 <!--hostlockdown@gmail.com-->
 <!--kikochz@163.com-->
-Please sign the email with <a href="https://www.ietf.org/rfc/rfc4880.txt">GPG</a> as possible for the self-security and self-privacy concerned.
+Please sign the email with <a href="https://www.ietf.org/rfc/rfc4880.txt">GPG</a> as possible.
 <li>ESmi - ■■■■■■■</li>
 <!--+1-339-236-3169-->
 Feel free to leave voice messages.
-<li>Telegram - ■■■■■■■</li>
-<!--https://t.me/@@-->
+<li>Matrix - ■■■■■■■</li>
+<!--@0x00.tor:matrix.org-->
 <!--disable now-->
 </ul>
 
@@ -109,7 +109,7 @@ Feel free to leave voice messages.
 
 > [!NOTE]
 >
-> My GPG keyring fingerprint
+> My GPG keyring fingerprint is
 > [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946) 
 > or you can get it by [steganography](steganography.jpg).
 > 
