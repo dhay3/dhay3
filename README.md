@@ -106,7 +106,7 @@ Feel free to leave voice messages.
 >
 > My relay mail GPG keyring is [69052C6E56CF9DD214C8562201BCD77D89BF8C77](https://keys.openpgp.org/search?q=69052C6E56CF9DD214C8562201BCD77D89BF8C77). Check the [sha1sum](69052C6E56CF9DD214C8562201BCD77D89BF8C77.sha1) Btw.
 > 
-> Or you can catch the "flag" in [steganography.jpg](steganography.jpg)
+> Or you can catch the "flag" in [steganography.jpg](steganography.jpg).
 
 ---
 
