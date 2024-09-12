@@ -45,9 +45,6 @@
 <!--Email - -->
 <!--<span>-->
 <!--■■■■■■■-->
-<!--0x00.tor@gmail.com-->
-<!--hostlockdown@gmail.com-->
-<!--kikochz@163.com--><!--</span>-->
 <!--<br>-->
 <!--Please sign the email with-->
 <!--<a href="https://gnupg.org/">GPG</a> as possible.-->
@@ -93,9 +90,7 @@
 
 <ul>
 <li>Email - ■■■■■■■</li>
-<!--0x00.tor@gmail.com-->
-<!--hostlockdown@gmail.com-->
-<!--kikochz@163.com-->
+<!--0om3smzqe@mozmail.com-->
 Please sign the email with <a href="https://www.ietf.org/rfc/rfc4880.txt">GPG</a> as possible.
 <li>ESmi - ■■■■■■■</li>
 <!--+1-339-236-3169-->
@@ -109,11 +104,9 @@ Feel free to leave voice messages.
 
 > [!NOTE]
 >
-> My GPG keyring fingerprint is
-> [0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946](https://keys.openpgp.org/search?q=0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946) 
-> or you can get it by [steganography](steganography.jpg).
+> My relay mail GPG keyring is [69052C6E56CF9DD214C8562201BCD77D89BF8C77](https://keys.openpgp.org/search?q=69052C6E56CF9DD214C8562201BCD77D89BF8C77). Check the [sha1sum](69052C6E56CF9DD214C8562201BCD77D89BF8C77.sha1) Btw.
 > 
-> Don't forget to check the [sha1sum](0D1FBFEA9F499F6A6A01A49D1D8AC28A0E990946.sha1).
+> Or you can catch the "flag" in [steganography.jpg](steganography.jpg)
 
 ---
 
