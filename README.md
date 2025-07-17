@@ -102,6 +102,16 @@ Feel free to leave voice messages.
 
 </details>
 
+<details open>
+<summary>☕ <b>Buy me a coffe</b></summary>
+
+<ul>
+<li>Ethereum - 0xaa743e3d34B9532F0Ec2A813777A3ef9aAc379AA</li>
+</ul>
+
+</details>
+
+
 > [!NOTE]
 >
 > My relay mail GPG keyring is [69052C6E56CF9DD214C8562201BCD77D89BF8C77](https://keys.openpgp.org/search?q=69052C6E56CF9DD214C8562201BCD77D89BF8C77). Check the [sha1sum](69052C6E56CF9DD214C8562201BCD77D89BF8C77.sha1) Btw.
